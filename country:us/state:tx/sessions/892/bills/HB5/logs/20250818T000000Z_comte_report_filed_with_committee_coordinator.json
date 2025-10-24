@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Comte report filed with Committee Coordinator",
+    "date": "2025-08-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 5"
+}

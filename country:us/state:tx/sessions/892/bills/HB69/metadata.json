@@ -1,0 +1,123 @@
+{
+  "legislative_session": "892",
+  "identifier": "HB 69",
+  "title": "Relating to creating the Texas Flash Flood Alley Interoperability Council and a grant program administered by the council.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "City Government--Finance (I0062)",
+    "County Government--Finance (I0097)",
+    "Disaster Preparedness & Relief (I0211)",
+    "EMERGENCY MANAGEMENT, TEXAS DIVISION OF (VP6FW)",
+    "FLOODS (S0327)",
+    "Governor (I0375)",
+    "Health--Emergency Services & Personnel (I0384)",
+    "Intergovernmental Relations (I0447)",
+    "LIEUTENANT GOVERNOR (S0096)",
+    "SPEAKER OF THE HOUSE (S0306)",
+    "STAFF DEVELOPMENT & TRAINING (S0317)",
+    "State Agencies, Boards & Commissions--Newly Proposed (I0773)",
+    "State Finances--Management & Control (I0748)",
+    "TEXAS FLASH FLOOD ALLEY INTEROPERABILITY COUNCIL (VU9ZL)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:07Z"
+      }
+    },
+    {
+      "description": "Read first time",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:07Z"
+      }
+    },
+    {
+      "description": "Referred to Disaster Preparedness & Flooding",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Disaster Preparedness & Flooding",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McLaughlin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McLaughlin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/html/HB00069I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/pdf/HB00069I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00001_HB00099/HB 69.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB69",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T01:59:07Z"
+  }
+}

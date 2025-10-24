@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment to amendment withdrawn",
+    "date": "2025-09-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 18"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House passage reported",
+    "date": "2025-08-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 11"
+}

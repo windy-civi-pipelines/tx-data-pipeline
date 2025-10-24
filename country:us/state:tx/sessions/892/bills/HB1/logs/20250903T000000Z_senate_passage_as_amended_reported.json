@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate passage as amended reported",
+    "date": "2025-09-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1"
+}

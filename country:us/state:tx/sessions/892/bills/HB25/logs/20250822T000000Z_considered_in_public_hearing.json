@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Considered in public hearing",
+    "date": "2025-08-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 25"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reason for vote recorded in Journal",
+    "date": "2025-08-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 10"
+}

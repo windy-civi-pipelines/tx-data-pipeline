@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Intergovernmental Affairs",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Intergovernmental Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 192"
+}

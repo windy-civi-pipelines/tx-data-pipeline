@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment(s) offered",
+    "date": "2025-09-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 128"
+}

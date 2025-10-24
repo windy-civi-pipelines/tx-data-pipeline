@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House requests conference committee-reported",
+    "date": "2025-09-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 27"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Statement(s) of vote recorded in Journal",
+    "date": "2025-08-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 14"
+}

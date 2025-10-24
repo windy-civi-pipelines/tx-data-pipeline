@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment(s) offered",
+    "date": "2025-08-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 15"
+}

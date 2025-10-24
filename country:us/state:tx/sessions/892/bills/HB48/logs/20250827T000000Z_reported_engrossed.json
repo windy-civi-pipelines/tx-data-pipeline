@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported engrossed",
+    "date": "2025-08-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 48"
+}

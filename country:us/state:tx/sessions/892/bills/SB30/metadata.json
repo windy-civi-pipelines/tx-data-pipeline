@@ -1,0 +1,153 @@
+{
+  "legislative_session": "892",
+  "identifier": "SB 30",
+  "title": "Relating to the regulation of products derived from hemp, including consumable hemp products and hemp beverages and the hemp-derived cannabinoids contained in those products; requiring occupational licenses and permits; imposing fees; creating criminal offenses; authorizing civil penalties; imposing taxes.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADMINISTRATIVE HEARINGS, STATE OFFICE OF (V0065)",
+    "ADVERTISING (S2680)",
+    "ALCOHOLIC BEVERAGE COMMISSION, TEXAS (V0472)",
+    "Alcoholic Beverage Regulation (I0025)",
+    "BEER, BREWERIES, & BREWPUBS (S0757)",
+    "BEVERAGE CONTAINERS (S6058)",
+    "Business & Commerce--Trade Practices (I0006)",
+    "Crimes--Drugs (I0185)",
+    "Electronic Information Systems (I0311)",
+    "Fees & Other Nontax Revenue--State (I0362)",
+    "HEALTH & HUMAN SERVICES COMMISSION (V0177)",
+    "HEMP (S0907)",
+    "MARIHUANA (S3105)",
+    "Minors--Health & Safety (I0533)",
+    "Occupational Regulation--Other Trades & Professions (I0541)",
+    "PACKAGING & LABELING REQUIREMENTS (S0339)",
+    "PERMITS (S0011)",
+    "PUBLIC SAFETY, DEPARTMENT OF (V0251)",
+    "STATE HEALTH SERVICES, DEPARTMENT OF (V0463)",
+    "SYNTHETIC CANNABINOIDS (S0718)",
+    "State Finances--Management & Control (I0748)",
+    "Taxation--Sales (I0800)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate",
+      "date": "2025-08-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing",
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:06Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2025-08-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarado",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alvarado\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blanco",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blanco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eckhardt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eckhardt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gutierrez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gutierrez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miles",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miles\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/html/SB00030I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/pdf/SB00030I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/senate_bills/SB00001_SB00099/SB 30.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB30",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T01:59:06Z"
+  }
+}

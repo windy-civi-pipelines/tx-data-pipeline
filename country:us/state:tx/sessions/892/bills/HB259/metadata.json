@@ -1,0 +1,93 @@
+{
+  "legislative_session": "892",
+  "identifier": "HB 259",
+  "title": "Relating to the Independent Citizen Redistricting Commission and the redistricting of the districts used to elect members of the United States House of Representatives, the Texas Legislature, and the State Board of Education.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ATTORNEY GENERAL (V2811)",
+    "AUDITOR, STATE (V4364)",
+    "Courts--Appellate (I0125)",
+    "EDUCATION, STATE BOARD OF (V0086)",
+    "HOUSE OF REPRESENTATIVES (V0096)",
+    "HOUSE OF REPRESENTATIVES, US (V0774)",
+    "INDEPENDENT CITIZEN REDISTRICTING COMMISSION (V1218)",
+    "Legislature (I0520)",
+    "Open Meetings (I0546)",
+    "Open Records (I0548)",
+    "Redistricting (I0645)",
+    "SECRETARY OF STATE (V0042)",
+    "SENATE, TEXAS (V0227)",
+    "SUPREME COURT (V0311)",
+    "State Agencies, Boards & Commissions--Newly Proposed (I0773)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Talarico",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Talarico\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/html/HB00259I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/pdf/HB00259I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00200_HB00299/HB 259.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB259",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T01:59:06Z"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "legislative_session": "892",
+  "identifier": "SB 31",
+  "title": "Relating to the regulation of the cultivation, manufacture, processing, distribution, sale, testing, transportation, delivery, transfer, possession, use, and taxation of cannabis and cannabis products and the local regulation of licensed cannabis growers, cannabis establishments, cannabis testing facilities, and cannabis secure transporters; providing for expunction of records relating to certain decriminalized conduct; authorizing the imposition of fees; requiring an occupational license; creating a criminal offense; imposing a tax.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ALCOHOLIC BEVERAGE COMMISSION, TEXAS (V0472)",
+    "COMPTROLLER OF PUBLIC ACCOUNTS (V2608)",
+    "CRIMINAL RECORDS (S0008)",
+    "Crimes--Drugs (I0185)",
+    "EXPUNCTION OF RECORDS (S0189)",
+    "Elections--General (I0310)",
+    "Electronic Information Systems (I0311)",
+    "Ethics (I0345)",
+    "Fees & Other Nontax Revenue--State (I0362)",
+    "HEALTH & HUMAN SERVICES COMMISSION (V0177)",
+    "HEMP (S0907)",
+    "IDENTIFICATION CARDS (S0074)",
+    "Interim Studies (I0448)",
+    "MARIHUANA (S3105)",
+    "Minors--Health & Safety (I0533)",
+    "Occupational Regulation--Other Trades & Professions (I0541)",
+    "PACKAGING & LABELING REQUIREMENTS (S0339)",
+    "PUBLIC SAFETY, DEPARTMENT OF (V0251)",
+    "Political Subdivisions (I0588)",
+    "Property Interests--Landlord & Tenant (I0610)",
+    "State Finances--Appropriations (I0746)",
+    "State Finances--Management & Control (I0748)",
+    "TEXAS REGULATION OF CANNABIS ACT (PQ06I)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate",
+      "date": "2025-08-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing",
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:07Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2025-08-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarado",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alvarado\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blanco",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blanco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cook",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cook\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eckhardt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eckhardt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gutierrez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gutierrez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Men\u00e9ndez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Men\\u00e9ndez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miles",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miles\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/html/SB00031I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/pdf/SB00031I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/senate_bills/SB00001_SB00099/SB 31.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB31",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T01:59:07Z"
+  }
+}

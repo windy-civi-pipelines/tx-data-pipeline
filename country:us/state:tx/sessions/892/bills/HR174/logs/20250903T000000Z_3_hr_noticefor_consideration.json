@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "3 hr. notice-for consideration",
+    "date": "2025-09-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR 174"
+}

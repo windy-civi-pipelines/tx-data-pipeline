@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Testimony taken in committee",
+    "date": "2025-08-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 11"
+}

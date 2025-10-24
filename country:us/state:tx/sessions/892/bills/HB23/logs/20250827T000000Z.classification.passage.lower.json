@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate passage reported",
+    "date": "2025-08-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 23"
+}

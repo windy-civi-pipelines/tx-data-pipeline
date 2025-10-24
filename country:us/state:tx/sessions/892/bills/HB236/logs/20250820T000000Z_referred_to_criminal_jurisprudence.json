@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Criminal Jurisprudence",
+    "date": "2025-08-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Criminal Jurisprudence",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 236"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Meeting cancelled",
+    "date": "2025-08-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 3"
+}

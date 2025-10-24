@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Sent to the Comptroller",
+    "date": "2025-09-04",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5"
+}

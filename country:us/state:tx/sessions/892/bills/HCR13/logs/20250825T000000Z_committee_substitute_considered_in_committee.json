@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee substitute considered in committee",
+    "date": "2025-08-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "substitution"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR 13"
+}

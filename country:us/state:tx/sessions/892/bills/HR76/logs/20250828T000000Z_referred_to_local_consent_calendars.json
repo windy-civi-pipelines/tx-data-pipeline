@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Local & Consent Calendars",
+    "date": "2025-08-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Local & Consent Calendars",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HR 76"
+}

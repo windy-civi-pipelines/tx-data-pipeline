@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Disaster Preparedness & Flooding",
+    "date": "2025-08-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Disaster Preparedness & Flooding",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 2"
+}

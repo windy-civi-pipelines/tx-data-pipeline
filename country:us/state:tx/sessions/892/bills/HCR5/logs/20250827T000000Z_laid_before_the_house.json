@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Laid before the House",
+    "date": "2025-08-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR 5"
+}

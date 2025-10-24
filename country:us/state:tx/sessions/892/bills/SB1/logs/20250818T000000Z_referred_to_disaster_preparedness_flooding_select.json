@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Disaster Preparedness & Flooding, Select",
+    "date": "2025-08-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Disaster Preparedness & Flooding, Select",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 1"
+}

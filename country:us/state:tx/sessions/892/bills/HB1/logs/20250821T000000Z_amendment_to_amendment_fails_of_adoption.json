@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment to amendment fails of adoption",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1"
+}

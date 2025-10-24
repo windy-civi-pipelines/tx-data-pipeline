@@ -1,0 +1,116 @@
+{
+  "legislative_session": "892",
+  "identifier": "HB 309",
+  "title": "Relating to the creation of the Texas Hemp Council; regulation of products derived from hemp, including consumable hemp products and hemp beverages and the hemp-derived cannabinoids contained in those products; requiring occupational licenses and permits; imposing fees; creating criminal offenses; authorizing civil penalties; imposing taxes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADMINISTRATIVE HEARINGS, STATE OFFICE OF (V0065)",
+    "ADVERTISING (S2680)",
+    "AGRICULTURE, COMMISSIONER OF (V4357)",
+    "AGRICULTURE, DEPARTMENT OF (V0566)",
+    "ALCOHOLIC BEVERAGE COMMISSION, TEXAS (V0472)",
+    "Agriculture (I0020)",
+    "BEER, BREWERIES, & BREWPUBS (S0757)",
+    "Business & Commerce--General (I0050)",
+    "Business & Commerce--Trade Practices (I0006)",
+    "COMPTROLLER OF PUBLIC ACCOUNTS (V2608)",
+    "City Government--General (I0060)",
+    "Civil Remedies & Liabilities (I0065)",
+    "County Government--General (I0096)",
+    "Courts--General (I0160)",
+    "Crimes--Miscellaneous (I0200)",
+    "Elections--General (I0310)",
+    "Fees & Other Nontax Revenue--State (I0362)",
+    "Governor (I0375)",
+    "HEMP (S0907)",
+    "HEMP COUNCIL, TEXAS (VI2X3)",
+    "HEMP INTERAGENCY COORDINATING COUNCIL, TEXAS (VV5I1)",
+    "Health--General (I0385)",
+    "Interim Studies (I0448)",
+    "LICENSING & REGULATION, TEXAS DEPARTMENT OF (V8529)",
+    "Minors--Crimes Against (I0532)",
+    "Minors--Health & Safety (I0533)",
+    "Occupational Regulation--Other Trades & Professions (I0541)",
+    "PACKAGING & LABELING REQUIREMENTS (S0339)",
+    "PERMITS (S0011)",
+    "PUBLIC SAFETY, DEPARTMENT OF (V0251)",
+    "Political Subdivisions (I0588)",
+    "SECRETARY OF STATE (V0042)",
+    "SIGNS (S0235)",
+    "STATE HEALTH SERVICES, DEPARTMENT OF (V0463)",
+    "State Agencies, Boards & Commissions--Newly Proposed (I0773)",
+    "TEXAS A&M AGRILIFE EXTENSION SERVICE (U0221)",
+    "Taxation--Alcoholic Beverages (I0812)",
+    "Taxation--General (I0815)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cain",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cain\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/html/HB00309I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/pdf/HB00309I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00300_HB00399/HB 309.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB309",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T01:59:06Z"
+  }
+}

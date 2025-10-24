@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment tabled",
+    "date": "2025-08-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Conference committee report filed",
+    "date": "2025-09-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5"
+}

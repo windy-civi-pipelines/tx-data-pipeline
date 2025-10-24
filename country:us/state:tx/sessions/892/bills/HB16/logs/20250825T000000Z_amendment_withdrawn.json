@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Amendment withdrawn",
+    "date": "2025-08-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-withdrawal",
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 16"
+}

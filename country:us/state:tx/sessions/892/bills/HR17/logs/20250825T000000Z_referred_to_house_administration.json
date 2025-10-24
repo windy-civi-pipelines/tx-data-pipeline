@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to House Administration",
+    "date": "2025-08-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "House Administration",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HR 17"
+}

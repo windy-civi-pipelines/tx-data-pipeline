@@ -1,0 +1,89 @@
+{
+  "legislative_session": "892",
+  "identifier": "HB 233",
+  "title": "Relating to the creation of a Texas Commission on Assessment and Accountability.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ASSESSMENT & ACCOUNTABILITY, TEXAS COMMISSION ON (V18VS)",
+    "EDUCATION AGENCY, TEXAS (V9941)",
+    "EDUCATION, COMMISSIONER OF (V9954)",
+    "EDUCATION, STATE BOARD OF (V0086)",
+    "Education--Primary & Secondary--Accountability (I0007)",
+    "Education--Primary & Secondary--Testing (I0229)",
+    "Governor (I0375)",
+    "HIGHER EDUCATION COORDINATING BOARD, TEXAS (V4280)",
+    "LIEUTENANT GOVERNOR (S0096)",
+    "SPEAKER OF THE HOUSE (S0306)",
+    "State Agencies, Boards & Commissions--Newly Proposed (I0773)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T01:59:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gonz\u00e1lez, Mary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gonz\\u00e1lez, Mary\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/html/HB00233I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/pdf/HB00233I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00200_HB00299/HB 233.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB233",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T01:59:07Z"
+  }
+}

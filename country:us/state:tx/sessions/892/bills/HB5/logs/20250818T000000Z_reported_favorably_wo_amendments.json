@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Reported favorably w/o amendment(s)",
+    "date": "2025-08-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 5"
+}

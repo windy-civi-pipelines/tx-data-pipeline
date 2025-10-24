@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Received from the House",
+    "date": "2025-08-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 8"
+}

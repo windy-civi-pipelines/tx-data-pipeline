@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House grants request for conference committee",
+    "date": "2025-08-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 2"
+}

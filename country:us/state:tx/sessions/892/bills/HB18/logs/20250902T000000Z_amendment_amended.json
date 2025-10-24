@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment amended",
+    "date": "2025-09-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-amendment"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 18"
+}

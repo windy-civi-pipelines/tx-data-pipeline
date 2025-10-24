@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported enrolled",
+    "date": "2025-08-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 55"
+}

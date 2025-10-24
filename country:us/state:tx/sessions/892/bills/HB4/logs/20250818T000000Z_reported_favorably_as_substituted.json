@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported favorably as substituted",
+    "date": "2025-08-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4"
+}

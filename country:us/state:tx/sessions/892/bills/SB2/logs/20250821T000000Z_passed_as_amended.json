@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Passed as amended",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Corrected com rept filed w/ Comte Coordinator",
+    "date": "2025-08-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 11"
+}

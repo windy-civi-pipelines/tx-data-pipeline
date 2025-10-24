@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Laid on the table subject to call",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 5"
+}

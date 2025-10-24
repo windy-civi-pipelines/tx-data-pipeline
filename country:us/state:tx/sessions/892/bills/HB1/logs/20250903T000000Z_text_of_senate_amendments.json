@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Text of Senate Amendment(s)",
+    "date": "2025-09-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1"
+}

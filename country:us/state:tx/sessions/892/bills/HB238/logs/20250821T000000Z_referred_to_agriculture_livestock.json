@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Agriculture & Livestock",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Agriculture & Livestock",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 238"
+}

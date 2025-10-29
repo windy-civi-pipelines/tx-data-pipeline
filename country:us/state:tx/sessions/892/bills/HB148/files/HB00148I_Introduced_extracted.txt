@@ -1,0 +1,16 @@
+Title: 89(2) HB 148 - Introduced version - Bill Text
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+89(2) HB 148 - Introduced version - Bill Text 89S20266 AND-D By: Garcia Hernandez H.B. No. 148 A BILL TO BE ENTITLED AN ACT relating to the use of artificial intelligence to score constructed responses on assessment instruments administered to public school students. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Section 39.023, Education Code, is amended by adding Subsection (s) to read as follows: (s)  The agency shall prohibit the use of artificial intelligence to score a constructed response on an assessment instrument administered under this section or an assessment system developed under Section 39.027(e). SECTION 2.  This Act applies beginning with the 2026-2027 school year. SECTION 3.  This Act takes effect on the 91st day after the last day of the legislative session.
+
+
+================================================================================
+
+Raw Text:
+89(2) HB 148 - Introduced version - Bill Text 89S20266 AND-D By: Garcia Hernandez H.B. No. 148 A BILL TO BE ENTITLED AN ACT relating to the use of artificial intelligence to score constructed responses on assessment instruments administered to public school students. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Section 39.023, Education Code, is amended by adding Subsection (s) to read as follows: (s)  The agency shall prohibit the use of artificial intelligence to score a constructed response on an assessment instrument administered under this section or an assessment system developed under Section 39.027(e). SECTION 2.  This Act applies beginning with the 2026-2027 school year. SECTION 3.  This Act takes effect on the 91st day after the last day of the legislative session.

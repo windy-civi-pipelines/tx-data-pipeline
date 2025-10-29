@@ -1,0 +1,16 @@
+Title: 89(2) HB 313 - Introduced version - Bill Text
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+89(2) HB 313 - Introduced version - Bill Text 89S20402 JDK-D By: Reynolds H.B. No. 313 A BILL TO BE ENTITLED AN ACT relating to the temperature at which a facility operated by the Texas Department of Criminal Justice is maintained. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Subchapter A, Chapter 501, Government Code, is amended by adding Section 501.028 to read as follows: Sec. 501.028.  TEMPERATURE REQUIREMENTS AT DEPARTMENT FACILITIES. The department shall ensure that the temperature in each facility operated by the department is maintained at not less than 65 degrees Fahrenheit or more than 85 degrees Fahrenheit. SECTION 2.  The Texas Department of Criminal Justice is not required to comply with the requirements of Section 501.028, Government Code, as added by this Act, until September 1, 2026. SECTION 3.  This Act takes effect on the 91st day after the last day of the legislative session.
+
+
+================================================================================
+
+Raw Text:
+89(2) HB 313 - Introduced version - Bill Text 89S20402 JDK-D By: Reynolds H.B. No. 313 A BILL TO BE ENTITLED AN ACT relating to the temperature at which a facility operated by the Texas Department of Criminal Justice is maintained. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Subchapter A, Chapter 501, Government Code, is amended by adding Section 501.028 to read as follows: Sec. 501.028.  TEMPERATURE REQUIREMENTS AT DEPARTMENT FACILITIES. The department shall ensure that the temperature in each facility operated by the department is maintained at not less than 65 degrees Fahrenheit or more than 85 degrees Fahrenheit. SECTION 2.  The Texas Department of Criminal Justice is not required to comply with the requirements of Section 501.028, Government Code, as added by this Act, until September 1, 2026. SECTION 3.  This Act takes effect on the 91st day after the last day of the legislative session.

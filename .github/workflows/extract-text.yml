@@ -1,15 +1,18 @@
+# Example caller workflow for text extraction
+# Copy this to your state data repo as .github/workflows/extract-text.yml
+
 name: Text Extraction from Bills
 
 on:
   schedule:
-    - cron: "0 8 * * *"  # Daily at 8 AM UTC (~3 AM ET, ~12 AM PT)
+    - cron: "0 8 * * *" # Daily at 8 AM UTC (~3 AM ET, ~12 AM PT)
   workflow_dispatch:
 
 jobs:
   extract-text:
     name: Text Extraction
     runs-on: ubuntu-latest
-    timeout-minutes: 330 # 5.5 hours (recommended for large datasets)
+    timeout-minutes: 355 # ~5.9 hours (close to GitHub's 6-hour limit)
     continue-on-error: true # Don't fail workflow on timeout - let restart job handle it
     permissions:
       contents: write
@@ -21,9 +24,10 @@ jobs:
           fetch-depth: 0
 
       - name: Run text extraction action
+        id: extract
         uses: windy-civi/toolkit/actions/extract@main
         with:
-          state: tx
+          state: tx # TX
           github-token: ${{ secrets.GITHUB_TOKEN }}
           force-update: "false"
 
@@ -56,6 +60,7 @@ jobs:
         shell: bash
         run: |
           # Count bills that still need text extraction
+          # Bills without _processing.text_extraction_latest_update need processing
           TOTAL_BILLS=$(find country:us/state:*/sessions/*/bills/*/metadata.json 2>/dev/null | wc -l || echo "0")
 
           if [ "$TOTAL_BILLS" -gt 0 ]; then
@@ -71,6 +76,7 @@ jobs:
         env:
           # Note: GITHUB_TOKEN cannot trigger workflows due to GitHub security restrictions
           # You must create a Personal Access Token (PAT) with 'workflow' scope and add it as a secret
+          # See: https://docs.github.com/en/actions/security-guides/automatic-token-authentication#using-the-github_token-in-a-workflow
           GH_TOKEN: ${{ secrets.PAT_WORKFLOW_TRIGGER }}
         run: |
           echo "⚠️ Previous run was cancelled/failed. Restarting to continue extraction..."

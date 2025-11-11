@@ -1,0 +1,164 @@
+{
+  "legislative_session": "892",
+  "identifier": "SJR 2",
+  "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected from this state, the Texas Senate, and the Texas House of Representatives.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "HOUSE OF REPRESENTATIVES (V0096)",
+    "HOUSE OF REPRESENTATIVES, US (V0774)",
+    "INDEPENDENT CITIZEN REDISTRICTING COMMISSION (V1218)",
+    "LEGISLATIVE REDISTRICTING BOARD (V0033)",
+    "Legislature (I0520)",
+    "Redistricting (I0645)",
+    "Resolutions--Constitutional Amendments (I0661)",
+    "SENATE, TEXAS (V0227)",
+    "State Agencies, Boards & Commissions--Newly Proposed (I0773)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate",
+      "date": "2025-08-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing",
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:23:36Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2025-08-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:23:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blanco",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blanco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cook",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cook\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eckhardt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eckhardt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gutierrez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gutierrez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hinojosa, Juan \"Chuy\"",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hinojosa, Juan \\\"Chuy\\\"\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Men\u00e9ndez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Men\\u00e9ndez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miles",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "West",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"West\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/html/SJ00002I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/892/billtext/pdf/SJ00002I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 2.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SJR2",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-11T03:23:36Z"
+  }
+}
